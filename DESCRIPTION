@@ -11,3 +11,7 @@ LazyData: true
 RoxygenNote: 7.1.0
 URL: https://github.com/wffadel/advcPack
 BugReports: https://github.com/wffadel/advcPack/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
