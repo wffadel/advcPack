@@ -1,0 +1,11 @@
+Package: advcPack
+Type: Package
+Title: This Package Creates and Prints Shapes
+Version: 0.1.0
+Author: Spencer Lourens
+Maintainer: William Fadel <yourself@somewhere.net>
+Description: Creates and prints shapes in S4.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
